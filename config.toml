@@ -1,0 +1,18 @@
+baseURL = "https://joshmeek.com/"
+languageCode = "en-us"
+title = "Josh Meek"
+theme = "hugo-journal"
+
+[author]
+  name = "Josh Meek"
+  homepage = "https://joshmeek.com/"
+
+[params]
+  description = "Josh Meek, Software Engineer"
+  githubUsername = "JoshM33k"
+  twitterUsername = "JoshM33k"
+  tagline = "software engineer"
+[params.work]
+  jobTitle = "Development Team Lead"
+  company = "Orchard Software"
+  companyUrl = "https://www.orchardsoft.com/"
