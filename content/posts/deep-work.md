@@ -1,7 +1,7 @@
 ---
 title: "Lessons Learned from Deep Work"
-date: 2019-08-27T20:58:15-04:00
-draft: true
+date: 2019-08-31T09:48:00-04:00
+draft: false
 tags: ["deep work"]
 categories: ["development"]
 ---
