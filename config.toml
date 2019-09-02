@@ -1,7 +1,7 @@
 baseURL = "https://joshmeek.com/"
 languageCode = "en-us"
 title = "Josh Meek"
-theme = "hugo-journal"
+theme = "yinyang"
 
 [author]
   name = "Josh Meek"
@@ -12,7 +12,21 @@ theme = "hugo-journal"
   githubUsername = "JoshM33k"
   twitterUsername = "JoshM33k"
   tagline = "software engineer"
+  headTitle = "Josh Meek"
+  mainSections = ["posts"]
 [params.work]
   jobTitle = "Development Team Lead"
   company = "Orchard Software"
   companyUrl = "https://www.orchardsoft.com/"
+[[params.socials]]
+  name = "About Me"
+  link = "https://joshmeek.com/about/"
+[[params.socials]]
+  name = "Now"
+  link = "https://joshmeek.com/now/"
+[[params.socials]]
+  name = "Github"
+  link = "https://github.com/JoshM33k"
+[[params.socials]]
+  name = "Twitter"
+  link = "https://twitter.com/JoshM33k"
