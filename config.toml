@@ -1,7 +1,7 @@
 baseURL = "https://joshmeek.com/"
 languageCode = "en-us"
 title = "Josh Meek"
-theme = "yinyang"
+theme = "hugo-journal"
 
 [author]
   name = "Josh Meek"
