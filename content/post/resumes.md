@@ -4,6 +4,7 @@ date: 2019-09-01T11:41:00-04:00
 draft: false
 tags: ["resumes"]
 categories: ["development"]
+toc: false
 ---
 
 Writing a good resume, much like software development itself, is often more art than science. Most people use the limited space in their resume to simply hit the required bullet points of contact information, education history, work experience, and a generic list of skills they purport to possess. This, however, does nothing to make you stand out from the sea of other potential jobseekers who have crafted shockingly similar resumes to your own, and doesn't get anyone excited about calling you for an interview.

@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-date: 2019-09-01T11:41:00-04:00
+title: "About"
+date: "2019-09-05"
 draft: false
 ---
 TBD

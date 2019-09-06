@@ -4,6 +4,7 @@ date: 2019-08-31T09:48:00-04:00
 draft: false
 tags: ["deep work"]
 categories: ["development"]
+toc: false
 ---
 
 I recently read [Deep Work](http://www.calnewport.com/books/deep-work/) by Cal Newport, after becoming increasingly frustrated with how often I'm pulled out of my deep development work for other "shallow" work tasks.
