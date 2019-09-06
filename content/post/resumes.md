@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Killer Resume"
-date: 2019-09-01T11:41:00-04:00
+date: "2019-09-01"
 draft: false
 tags: ["resumes"]
 categories: ["development"]

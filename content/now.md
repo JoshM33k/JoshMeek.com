@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: 2019-09-01T11:41:00-04:00
+date: "2019-09-05"
 draft: false
 ---
 _(This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)_
