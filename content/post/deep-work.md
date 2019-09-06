@@ -22,3 +22,9 @@ Once you've started thinking mindfully about your schedule, and have started acc
 It may sound counter-intuitive, but working more hours a day doesn't necessarily equate to getting more done. A compressed timeline, with a "hard out" when you go home and stop thinking about work, will create a sense of urgency for completing tasks, giving you less time for your mind to wander. Creating this false sense of urgency is something that you can improve on with practice, and can also be utilized throughout your day by setting time limits for completing things. For example, "I have 30 minutes to finish this code review".
 
 Maintaining this fixed-schedule helps keep work from creeping into your non-work life, mainting a balance and limiting the chance for you to burn out. While at work, it keeps you focused and urgent in completing tasks.
+
+## Ritualize Your Deep Work
+
+In order to facilitate entering a flow state of deep work, you can add some form of ritual around it. This will be different for everyone, but maybe it involves going to get a fresh cup of coffee, or starting a fresh page of your notebook, or putting on your noise-canceling headphones and playing some music. It doesn't have to be complicated, but having a process you initiate each time you begin to deeply work can help your brain realize it's time to push the shallow stuff aside and get down to business.
+
+Simiarly, you also need a way to _turn off_ that deep work state. Newport suggests adding a "shutdown routine" at the end of the day, where you go over your TODO lists, examining each item, write TODOs and check your schedule for the next day, and generally just get to a good stopping point. Everyone's specific shutdown routine will involve different activities, but the idea is that it's a signal for your brain that work thoughts will be left at work, and there's no need to worry because you went through your shutdown routine.
