@@ -2,7 +2,7 @@
 title: "Lessons Learned from Deep Work"
 date: "2019-08-31"
 draft: false
-tags: ["deep work"]
+tags: ["development", "deep work"]
 categories: ["development"]
 toc: false
 ---

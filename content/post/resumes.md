@@ -2,7 +2,7 @@
 title: "How to Write a Killer Resume"
 date: "2019-09-01"
 draft: false
-tags: ["resumes"]
+tags: ["development", "resumes"]
 categories: ["development"]
 toc: false
 ---
