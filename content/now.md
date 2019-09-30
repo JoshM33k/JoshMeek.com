@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2019-09-05"
+date: "2019-09-29"
 draft: false
 ---
 _(This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)_
@@ -11,7 +11,7 @@ _(This is [a now page](https://nownownow.com/about), and if you have your own si
 
 {{% ticks %}}
 - Currently my wife Jessie and I are expecting our first child, a girl, due in mid-November. We're doing our best not to panic.
-- Our impending baby girl is already keeping us very busy preparing the nursery and attending infant care classes.
+- We've completed several infant care classes, but are a little concerned that none of them have given us the instruction manual yet.
 - We live in Westfield Indiana, just north of Indianapolis.
 {{% /ticks %}}
 
@@ -24,10 +24,10 @@ _(This is [a now page](https://nownownow.com/about), and if you have your own si
 
 ## Fun
 {{% ticks %}}
-- I'm figuring out how exactly I can morph [my podcast](https://prettydeceshow.com/) into something that's still manageable when I have a child.
+- I've changed [my podcast](https://prettydeceshow.com/) into a weekly show instead of 3-5 times a week, in preparation for the baby.
+- I'm an avid Magic the Gathering player, and have recently discovered the Canadian Highlander format.
 {{% /ticks %}}
-
 
 ---
 
-_Page Last Updated September 5th, 2019_
+_Page Last Updated September 29th, 2019_
