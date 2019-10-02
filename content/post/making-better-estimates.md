@@ -1,7 +1,7 @@
 ---
 title: "Making Better Estimates by Refusing to Estimate"
-date: "2019-09-29"
-draft: true
+date: "2019-10-01"
+draft: false
 tags: ["development"]
 toc: false
 ---
@@ -12,4 +12,12 @@ Overcoming this natural tendency and learning how to give accurate, realistic es
 
 ## Unspoken Parameters
 
-Any manager asking a developer for an estimate has an idea in mind of how long they think that task should take. 
+The unspoken piece of an estimation conversation is that most managers asking a developer for an estimate have an idea in mind of how long they think that task should take. The manager comes in with a preconceived notion and a desired outcome. Essentially, they have a price, in development hours, they're willing to spend for a given task. If the developer comes in with an estimate under this magic number, they're praised! So fast! So productive! If the developer says a number higher, they're either thought of as less productive, or even worse, the manager may attempt to "talk them down" to the number they had in mind.
+
+Obviously these behaviors are counter-intuitive, and neither party gets to play to their strengths. A manager should be employing developers that they trust to give them an accurate estimate, without any coaxing or pleading for different numbers, and a developer should be able to trust that their manager truly wants their opinion in how long something will take, rather than to start a bargaining match over development hours. However, in the real world, this harmonious relationship is rarely the reality.
+
+## The Solution
+
+So, the developer should instantly reframe any talk of "how long would this take?" with an initial question of their own: "When is the deadline?" This makes the unspoken initial bid of the manager apparent to both parties. The developer is no longer throwing a dart at a dartboard they can't see, they're presented with the actual business needs of the manager for the task at hand.
+
+With this deadline in hand, the developer should **not** simply accept this number and go off to work! The developer's skill in estimating effort and time still comes into play, but now they have a new axis with which to measure: They now know the upper bound. With this information, they can now inform their manager of the _reality_ of completing the given task by the preferred deadline. Instead of "this task will take 3 weeks" when the manager had 2 weeks in mind, the developer can now say "If you need this done in 2 weeks, I'll only be able to account for 3 of the 5 use cases in that time". This should mean that both the manager and the developer have a clearer understanding of the business need and what proposed work will be completed by the deadline.
