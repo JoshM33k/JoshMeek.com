@@ -21,7 +21,7 @@ I recommend reading the [Hugo Quick Start](https://gohugo.io/getting-started/qui
 
 ## Github
 
-[Github](https://github.com/) is the easiest places to store your websites files. You'll want to make sure not to commit the /public folder in your Hugo directory by adding it to your .gitignore, as those are generated files, and our continuous deployment will re-generate these each time we push a new commit.
+[Github](https://github.com/) is the easiest places to store your websites files. You'll want to make sure not to commit the /public folder in your Hugo directory by adding it to your .gitignore, as those are generated files, and our continuous deployment will re-generate these each time we push a new commit. For this particular site, I'm using the [Cupper theme](https://github.com/zwbetz-gh/cupper-hugo-theme). The theme is installed via a git submodule. In order to update the theme, from the root of this site, you simply run: {{< cmd >}}git submodule update --remote --merge{{< /cmd >}}
 
 ## Netlify
 
